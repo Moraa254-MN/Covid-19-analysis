@@ -9,3 +9,5 @@
    cd COVID-19-Analysis
    pip install -r requirements.txt
    jupyter notebook COVID-19_Data_Analysis.ipynb
+[![View on NBViewer](https://img.shields.io/badge/render-NBViewer-orange)][(https://nbviewer.org/gist/Moraa254-MN/8dcd93568510cdfd0d202ef958427527)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/gist/Moraa254-MN/8dcd93568510cdfd0d202ef958427527/HEAD?labpath=covid-19_analysis.ipynb)
